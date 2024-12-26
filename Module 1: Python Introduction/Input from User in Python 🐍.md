@@ -85,7 +85,7 @@
   - Handle errors like `TypeError` when performing operations with incompatible types (e.g., strings and numbers).
   - Python’s dynamic typing allows you to perform type conversion at runtime based on user input.
 
-NOte :- 
+Note :- 
 Dynamic typing means that the type of a variable is determined at runtime, not in advance. In other words, you don't need to explicitly declare the type of a variable when you create it.
 The type is automatically inferred based on the value assigned to the variable.
 Example:

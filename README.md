@@ -2,8 +2,6 @@
 
 Welcome to the **Python Syllabus Repository**, a comprehensive guide to Python programming. This repository covers key topics from beginner to advanced levels, aligned with the syllabus.
 
----
-
 ## 📋 Syllabus Overview
 
 ### **Module 1: Python Introduction**

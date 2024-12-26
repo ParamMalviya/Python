@@ -73,12 +73,12 @@ Welcome to the **Python Syllabus Repository**, a comprehensive guide to Python p
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ParamMalviya/Python-.git
+   git clone https://github.com/ParamMalviya/Python.git
    ```
 
 2. Navigate to the project folder:  
    ```bash
-   cd Python-
+   cd Python
    ```
 
 3. Explore the modules and examples provided.  
